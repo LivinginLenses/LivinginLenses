@@ -32,13 +32,12 @@ h1 {
 }
 
 footer {
-    text-align: center;
-    padding: 20px;
-    background-color: #222; /* Dark background for footer */
-    color: #fff; /* White text for contrast */
-    position: fixed;
-    width: 100%;
-    bottom: 0;
+  position: fixed; 
+  bottom: 0;
+  width: 100%; 
+  background-color: gray /* Your background color */;
+  color: black /* Your text color */;
+  text-align: center;
 }
 
 @media (max-width: 768px) {
