@@ -35,8 +35,8 @@ footer {
   position: fixed; 
   bottom: 0;
   width: 100%; 
-  background-color: gray /* Your background color */;
-  color: black /* Your text color */;
+  background-color: black;
+  color: gray /* gray is fine */;
   text-align: center;
 }
 
